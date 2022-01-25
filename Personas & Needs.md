@@ -1,36 +1,57 @@
 #### Homeowner, Yngve
 
 <u>Boendesituation:</u> Villa, familj
+
 <u>Arbete:</u> Arbete inom elektroniksektorn, kontorsarbete
+
 <u>Ålder:</u> 35
+
 <u>Teknisk bakgrund:</u> Begränsade programmeringskunskaper, viss elektronikkunskap
+
 <u>Utbildning:</u> Ingen eller lite eftergymnasial utbildning
+
 <u>Influenser:</u> Fru & barn, kollegor, vänner, miljömedvetenhet, ekonomiska intressen
+
 <u>Mål:</u>
+
 -   Att frigöra tid i vardagen med hjälp av automatisk utrustning
 -   Att kunna spara energi med hjälp av en solsensor
 
 #### Child, Ted
 
 <u>Boendesituation:</u> Villa, familj
+
 <u>Arbete:</u> Inget
+
 <u>Ålder:</u> 3
+
 <u>Teknisk bakgrund:</u> Ingen
+
 <u>Utbildning:</u> Förskola
+
 <u>Influenser:</u> Föräldrar, barnprogram, nyfikenhet
+
 <u>Mål:</u>
+
 - Inte kunna skadas av små delar i produkten
 - Inte kunna skada produkten
 
 #### Teenager, Carola
 
 <u>Boendesituation:</u> Villa, familj
+
 <u>Arbete:</u> Inget
+
 <u>Ålder:</u> 14
+
 <u>Teknisk bakgrund:</u> Liten
+
 <u>Utbildning:</u> Grundskola
+
 <u>Influenser:</u> Miljömedvetenhet, vänner, sociala medier
+
 <u>Mål:</u>
+
 - Minska klimatpåverkan med ansvarsfull återvinning
 - Hålla sig up-to-date med trender
 
