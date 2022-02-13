@@ -1,0 +1,16 @@
+# Features
+- Ljussensorn ska kunna kommunicera med en central controller via Home Assistant-protokoll. 
+- Ljussensorn ska kunna monteras på 10 minuter i så få steg som möjligt. 
+- Ljussensorn ska producera sin egen elektricitet. 
+- Ljussensorn ska kunna stänga av och starta upp sig själv vid behov.
+- Ljussensorns kompontenter ska kunna utbytas på ett enkelt sätt. 
+- Ljussensorn ska inte kunna öppnas utan verktyg. 
+- Ljussensorn ska ha ett starkt fäste i fasaden. 
+- De komponenter med miljöfarliga ämnen som finns i ljussensorn ska kunna tas bort och återvinnas (ex. batteri).
+- Ljussensorn ska inte sticka ut från husets utseende.
+- Ljussensorn ska stå emot höga och låga temperaturer som är vanliga i Sverige. 
+- Ljussensorn ska stå emot skyfall. 
+- Ljussensorn ska ha en genomsnittlig livslängd på 5 år. 
+- Ljussensorn ska kommunicera trådlöst. 
+- Ljussensorn ska uppdatera förändringar i ljusnivåer en gång per minut. 
+- Ljussensorn ska klara sig utan generation av el i cirka 2 månader. 
