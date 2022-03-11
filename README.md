@@ -1,3 +1,4 @@
-Detta är gruppens officiella samarbetsyta för PA1475
-repo for group 6
-Still learning "#"git
+Gruppens officiella samarbetsyta. 
+
+Alla små filer kring våra initiala assignments kan hittas under predev_docs.
+
